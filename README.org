@@ -1,0 +1,10 @@
+* beirc
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/beirc/beirc.git   |
+| commit  |   |
+| systems | beirc |
+|---------+-------------------------------------------|
+
